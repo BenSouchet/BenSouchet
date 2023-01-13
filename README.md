@@ -1,10 +1,15 @@
 # Hi, I’m Ben 👋
-#### A software engineer based in Paris (France)
+### A software engineer based in Paris (France)
+<br />
 
-💼 Former Lead Animation Programmer at Ubisoft Nadeo, I worked among other things on the last [Trackmania](https://www.trackmania.com/).<br />
-I’m currently looking 🔎 for a job opportunities (R&D dev) in Video Game, Animation or TV.
-<br />
-<br />
+💼 Formerly ___@Ubisoft Annecy___, ___@Elipse Animation___, ___@Ubisoft Nadeo___
+
+👨🏻‍💻 I worked on:
+ - 🎮 [Riders Republic](https://www.ubisoft.com/en-gb/game/riders-republic)
+ - 📺 [The Smurfs](https://www.smurf.com/)
+ - 📺 [The Fox-Badger Family](https://mediatoon-distribution.com/en/programme/the-fox-badger-family/)
+ - 🎮 [TrackMania](https://www.trackmania.com/)
+ - 🎮 [TrackMania² (Stadium, Canyon, Valley, Lagoon)](https://en.wikipedia.org/wiki/TrackMania_2)
 
 ## Usefuls Links
 <p align="center">
