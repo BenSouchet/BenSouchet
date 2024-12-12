@@ -1,8 +1,8 @@
 # Hi, I’m Ben 👋
-### A software engineer based in Paris (France)
+### A senior software engineer based in Paris (France)
 <br />
 
-💼 Formerly ___@Ubisoft Annecy___, ___@Elipse Animation___, ___@Ubisoft Nadeo___
+💼 Formerly ___@MBDA___, ___@Ubisoft Annecy___, ___@Elipse Animation___, ___@Ubisoft Nadeo___
 
 👨🏻‍💻 I worked on:
  - 🎮 [Riders Republic](https://www.ubisoft.com/en-gb/game/riders-republic)
