@@ -1,15 +1,10 @@
 # Hi, I’m Ben 👋
-### A senior software engineer based in Paris (France)
+### CTO / Head of Technology based in Paris (France)
+
+With a hybrid profile and over 7 years of experience in the video game, audiovisual, and defense industries.
+
+I am responsible for the technological vision and lead the development of complex digital products by combining strategy, operational management, and team management.
 <br />
-
-💼 Formerly ___@MBDA___, ___@Ubisoft Annecy___, ___@Elipse Animation___, ___@Ubisoft Nadeo___
-
-👨🏻‍💻 I worked on:
- - 🎮 [Riders Republic](https://www.ubisoft.com/en-gb/game/riders-republic)
- - 📺 [The Smurfs](https://www.smurf.com/)
- - 📺 [The Fox-Badger Family](https://mediatoon-distribution.com/en/programme/the-fox-badger-family/)
- - 🎮 [TrackMania](https://www.trackmania.com/)
- - 🎮 [TrackMania² (Stadium, Canyon, Valley, Lagoon)](https://en.wikipedia.org/wiki/TrackMania_2)
 
 ## Usefuls Links
 <p align="center">
